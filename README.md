@@ -273,6 +273,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### Stay Updated 
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/cj-diba-musas)
 
 Thank you for your support, and I look forward to connecting with you!
